@@ -1,4 +1,4 @@
-#using OnhHotEncoding for categorical features
+#using OneHotEncoding for categorical features
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
